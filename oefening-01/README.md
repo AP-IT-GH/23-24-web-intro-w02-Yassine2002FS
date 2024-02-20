@@ -16,5 +16,10 @@
 ## 💡 vragen
 
 - Waarvoor staat de afkorting `ul`?
+Dit staat voor unordered list.
+
 - Waarvoor staat de afkorting `li`?
+Dit staat voor list items.
+
 - Welke elementen worden in deze oefening "genest"?
+De element h1, p en ul.
