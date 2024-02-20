@@ -16,4 +16,5 @@
 ## 💡 vragen
 
 - Welke elementen worden in deze oefening "genest"?
+
 - Hoeveel "nesting niveau's" heb je hier?
