@@ -16,4 +16,7 @@
 ## 💡 vragen
 
 - Waarvoor staat de afkorting `ol`?
+Dit staat voor orderded list.
+
 - Welke elementen worden in deze oefening "genest"?
+Deze elementen: h1, p en ol.
