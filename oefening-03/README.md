@@ -16,5 +16,7 @@
 ## 💡 vragen
 
 - Welke elementen worden in deze oefening "genest"?
+De elementen dat worden gebruikt zijn: h1, h2, p, ol, li en ul.
 
 - Hoeveel "nesting niveau's" heb je hier?
+2 niveau's worden gebruikt.
